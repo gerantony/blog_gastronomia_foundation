@@ -1,0 +1,29 @@
+.blogg{
+  background-color: rgb(140, 184, 209, 0.7);
+}
+body{
+  background:url(../img/backcook.jpg) no-repeat;
+}
+.cabecera1{
+  border-right: 2px solid #fbe3fc;
+}
+.area2{
+  border-top: 1px solid #fbe3fc;
+  margin-top: 15px;
+  padding-top: 15px;
+}
+.grupo1{
+  background: #e4d1e0 !important;
+}
+.menu{
+  background: none;
+}
+.favoritos{
+  padding: 5px;
+}
+h1, h5{
+  color: white;
+}
+h5{
+  font-style: italic;
+}
