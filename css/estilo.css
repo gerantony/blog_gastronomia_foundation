@@ -16,7 +16,7 @@ body{
   background: #e4d1e0 !important;
 }
 .grupo2{
-  background: #ffbbc9 !important;
+  background: #fce3e8 !important;
 }
 .menu{
   background: none;
@@ -29,4 +29,22 @@ h1, h5{
 }
 h5{
   font-style: italic;
+}
+.platos{
+  max-height: 350px;
+}
+h3, h6 {
+  width: 100%;
+}
+.publicado{
+  border: 1px solid #878787;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+.articulo{
+  padding: 10px !important;
+}
+.imguser{
+  margin: 0;
+  padding: 0;
 }
