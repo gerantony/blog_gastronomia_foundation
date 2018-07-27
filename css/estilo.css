@@ -3,6 +3,7 @@
 }
 body{
   background:url(../img/backcook.jpg) no-repeat;
+  background-position: center;
 }
 .cabecera1{
   border-right: 2px solid #fbe3fc;
